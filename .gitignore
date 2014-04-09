@@ -20,3 +20,5 @@ doc/
 .secret
 /lib
 /bin
+sample_app.sublime-project
+sample_app.sublime-workspace
